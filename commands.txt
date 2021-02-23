@@ -1,0 +1,72 @@
+    1  git 
+    2  pwd
+    3  mkdir training
+    4  cd training/
+    5  mkdir devops
+    6  cd devops/
+    7  git init 
+    8  notepad file.txt
+    9  ll
+   10  ssh-keygen -t rsa -C hari.o.sharma2022@outlook.com
+   11  git config --global user.name "hari"
+   12  git config --global user.email hari.o.sharma2022@outlook.com
+   13  git config --list
+   14  sh -T git@github.com
+   15  git status
+   16  git login
+   17  git log
+   18  git comit
+   19  git commit
+   20  git push -u origin master 
+   21  git push -u origin master 
+   22  ll
+   23  git push -u file master 
+   24  git push * master 
+   25  git push -u origin master 
+   26  clear
+   27  git push -u origin master 
+   28  sh -T hariomsharma2022@github.com
+   29  ll
+   30  notepad file1.txt
+   31  git remote -v
+   32  git remote -v
+   33  git remote add origin https://github.com/hariomsharmacloud2020/devops.git
+   34  git push -u origin master
+   35  git log
+   36  notepad hellow.txt
+   37  git add  .
+   38  git commit
+   39  git push -u origin master
+   40  git push -u origin master
+   41  git push -u origin master
+   42  clear
+   43  git push -u origin master
+   44  ssh-keygen -t rsa -C hari.o.sharma2022@outlook.com
+   45  ssh -T git@github.com
+   46  git remote -v
+   47  git remote remove origin
+   48  git remote add origin git@github.com:hariomsharmacloud2020/devops.git
+   49  git push -u origin master 
+   50  notepad one.txt
+   51  git status
+   52  git add .
+   53  git push 
+   54  git log
+   55  ll
+   56  git commit -m "new"
+   57  git push
+   58  mkdir new
+   59  git add .
+   60  git commit -m "blank"
+   61  git commit -M "blank"
+   62  git commit -M "blank"
+   63  git commit -m "blank"
+   64  ll
+   65  cd new
+   66  touch two.txt
+   67  cd ..
+   68  git add .
+   69  git commit -m "blank file"
+   70  git push 
+   71  history
+   72  history >> commands.txt
